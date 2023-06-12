@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korisnici>
+  <korisnik>
+    <korisnicko_ime>admin</korisnicko_ime>
+    <lozinka>test</lozinka>
+    <ime>Ante</ime>
+    <prezime>Horvat</prezime>
+  </korisnik>
+  <korisnik>
+    <korisnicko_ime>user1</korisnicko_ime>
+    <lozinka>12345</lozinka>
+    <ime>Josip</ime>
+    <prezime>Jelačić</prezime>
+  </korisnik>
+  <korisnik>
+    <korisnicko_ime>user2</korisnicko_ime>
+    <lozinka>54321</lozinka>
+    <ime>Hrvoje</ime>
+    <prezime>Antić</prezime>
+  </korisnik>
+</korisnici>
